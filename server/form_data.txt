@@ -1,0 +1,6 @@
+First name: Ante
+Last name: Antić
+Address: Split 3, Split
+Phone: +848878
+E-mail: ante.antic@gmail.com
+Checked?: true
